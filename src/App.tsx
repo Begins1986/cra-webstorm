@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <div className="class">Commit1</div>
+        <div className="commit"></div>
       </header>
     </div>
   );
